@@ -1,0 +1,5 @@
+http://digital.ni.com/public.nsf/allkb/3BDC7FF03541F772862564990057F919
+
+http://msdn.microsoft.com/en-us/library/system.io.ports.serialport.aspx
+
+http://www.vending.org/technical/MDB_3.0.pdf

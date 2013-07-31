@@ -6,7 +6,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{54457E71-9856-4D5E-BD96-810AB163E5F0}"
 	ProjectSection(SolutionItems) = preProject
 		LICENSE = LICENSE
+		MDB_3.0.pdf = MDB_3.0.pdf
 		README.md = README.md
+		ReferenceMaterial.txt = ReferenceMaterial.txt
 	EndProjectSection
 EndProject
 Global
